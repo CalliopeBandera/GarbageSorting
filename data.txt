@@ -1,0 +1,2 @@
+The folder with the data was too big to upload to gradescope
+Link to data: https://www.kaggle.com/datasets/mostafaabla/garbage-classification
